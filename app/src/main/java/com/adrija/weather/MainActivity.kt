@@ -8,6 +8,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.ViewModelProvider
+import com.adrija.weather.ui.theme.WeatherDetails
 import com.adrija.weather.ui.theme.WeatherPage
 import com.adrija.weather.ui.theme.WeatherTheme
 
